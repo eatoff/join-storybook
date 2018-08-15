@@ -1,0 +1,9 @@
+body,
+html {
+  width: 100%;
+  min-height: 100%;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+}
